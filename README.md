@@ -3,3 +3,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-zxy&layout=compact&locale=cn&theme=dark&bg_color=00000000&hide_border=true" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Bruce-zxy)](https://github.com/ryo-ma/github-profile-trophy)
